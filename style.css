@@ -1,0 +1,86 @@
+
+
+body{
+    font-size: 70px;
+    padding-left: 50px;
+    border-left: 20px solid rgba(206, 205, 202, 0.774);
+    border-right: 20px solid rgba(206, 205, 202, 0.774);
+    border-bottom: 4px solid rgba(206, 205, 202, 0.774);
+    border-radius: 10px;
+    padding-bottom: none;
+}
+
+#header{
+    
+    background-color: rgba(250, 225, 187, 0.865) ;
+    height: 653px;
+    color: rgb(168, 156, 141);
+    padding-left: 100px;
+    font-size: 90px;
+    border-radius: 10px;
+}
+
+h1{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+
+#let-us-create{
+    margin:0px;
+    padding-bottom: 0px;
+    font-size: 110px
+}
+
+#teacup{
+    text-align: right;
+    padding-right: 100px;
+    }
+form{
+    color: blueviolet;
+    padding-left: 20px;
+    font-size: 90px;
+}
+
+.input{
+    width: 90%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 5px solid blueviolet;
+    padding-left: 10px;
+    
+}
+
+#password{
+    color: rgb(120, 115, 115);
+    border-top: 10px;
+}
+
+#paswd{
+    border-bottom: 10px solid rgb(120, 115, 115);;
+}
+
+.submit{
+    text-align: center;
+    margin-top: none;
+    padding-top: none;
+    text-align: center;
+}
+
+#submit{
+    background-color: blueviolet;
+    color: white;
+    margin-top: 0px;
+    height: 50px;
+    width: 75%;
+    padding-top: 0px;
+    padding-left: 1px;
+    text-align: center;
+    
+}
+
+span{
+    color: blueviolet;
+    padding-left: 13%;
+}
